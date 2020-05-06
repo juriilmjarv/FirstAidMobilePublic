@@ -3,6 +3,8 @@ React Native mobile app
 
 First aid system lets the administrators to register new emergencies which will send the notifications to the cloesest available first aiders mobile application.
 
+See user manual provided for full overview.
+
 This is one of the two developed apps. To test the full system download the web app source code from here: https://github.com/juriilmjarv/FirstAidWebPublic/tree/master/FirstAidWeb
 
 To test this project download the Expo Client app from the App Store or Play Store.
